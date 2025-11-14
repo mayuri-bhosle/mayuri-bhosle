@@ -1,16 +1,13 @@
-## Hi there 👋
+Welcome to my GitHub workspace! 👋
 
-<!--
-**mayuri-bhosle/mayuri-bhosle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This corner of GitHub is where I grow, experiment, and share what I’m learning as I navigate my career and life. 
+You’ll see:
 
-Here are some ideas to get you started:
+🛠️ Projects that reflect what I’m currently building or contributing to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Lessons learned through trial, error, and persistence
+
+🌱 Thoughtful reminders for anyone working hard to better themselves
+
+If you’re here to learn or simply feel understood, stick around there’s room for you here.
+Let’s keep moving forward together. You supply the snacks; I’ll write the code. 🍪💻
